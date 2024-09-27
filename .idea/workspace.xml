@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee494e7-0273-4677-97f5-5e222d8d0bf3" name="Changes" comment="first" />
+    <list default="true" id="aee494e7-0273-4677-97f5-5e222d8d0bf3" name="Changes" comment="first c">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MohammadZayn"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MohammadZayn/Flipcart.git",
+    "accountId": "1efb3860-8f85-468f-a0c6-e283f539a0f7"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -136,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for Excel_Auto.test_login" />
-        <item itemvalue="Python tests.Python tests for test_check.Test_automation.test_res" />
-        <item itemvalue="Python tests.Python tests for test_check.test_login1" />
-        <item itemvalue="Python tests.Python tests for test_check.Test_automation" />
         <item itemvalue="Python tests.Python tests for test_dumchecker.Test_automation" />
+        <item itemvalue="Python tests.Python tests for test_check.test_login1" />
+        <item itemvalue="Python tests.Python tests for test_check.Test_automation.test_res" />
+        <item itemvalue="Python tests.Python tests for test_check.Test_automation" />
+        <item itemvalue="Python tests.Python tests for Excel_Auto.test_login" />
       </list>
     </recent_temporary>
   </component>
@@ -168,8 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727440788564</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first c">
+      <option name="closed" value="true" />
+      <created>1727443628764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727443628764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <MESSAGE value="first c" />
+    <option name="LAST_COMMIT_MESSAGE" value="first c" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
